@@ -5,7 +5,7 @@ Generate music via Deep learning techinques
 https://colinraffel.com/projects/lmd/
 
 ## Run 
-1st run this file  data_preprocessing.ipynb and then for model training chord_lstm_training.ipynb & polyphonic_lstm_training.ipynb finally run generation.ipynb for generating polyphonic music.
+1st run this file  >>data_preprocessing.ipynb<< and then for model training chord_lstm_training.ipynb & polyphonic_lstm_training.ipynb finally run generation.ipynb for generating polyphonic music.
 
 ## Libraries
 -> keras
